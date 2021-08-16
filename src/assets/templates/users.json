@@ -1,0 +1,40 @@
+[
+    {
+      "id": 101,
+      "username": "rj124",
+      "name": "Rahul Jain",
+      "email": "rj@gmail.com",
+      "password": "rahul@1234",
+      "address": "#12, New Delhi"
+    },
+    {
+      "id": 102,
+      "username": "mg124",
+      "name": "Mayank Garg",
+      "email": "mg@yahoo.com",
+      "password": "mayank@jain"
+    },
+    {
+        "id": 103,
+        "username": "sgj124",
+        "name": "Shefali Jain",
+        "email": "sj@gmail.com",
+        "password": "jain@password"
+      },
+      {
+        "id": 104,
+        "username": "ps124",
+        "name": "Priyanka Singh",
+        "email": "ps@gmail.com",
+        "password": "psingh1234@emart",
+        "address": "#891, Sector 17 Gurgaon"
+      },
+      {
+        "id": 1000,
+        "username": "admin",
+        "name": "Admin",
+        "email": "admin@gmail.com",
+        "password": "admin"
+        
+      }
+]
